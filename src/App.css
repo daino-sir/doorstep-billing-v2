@@ -30,6 +30,9 @@
 .App-link {
     color: #61dafb;
 }
+.hero-background {
+    background-image: url('./assets/background.png') bottom no-repeat;
+}
 
 @keyframes App-logo-spin {
     from {
